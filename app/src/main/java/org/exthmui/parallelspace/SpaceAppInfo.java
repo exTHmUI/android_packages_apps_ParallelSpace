@@ -1,10 +1,10 @@
-package com.libremobileos.parallelspace;
+package org.exthmui.parallelspace;
 
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.drawable.Drawable;
 
-import com.android.internal.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.exthmui.app.ParallelSpaceManager;
 
 public class SpaceAppInfo {
 

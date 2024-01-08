@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2022 LibreMobileOS Foundation
+     Copyright (C) 2019-2024 The exTHmUI Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,7 +16,7 @@
      limitations under the License.
 -->
 <permissions>
-    <privapp-permissions package="com.libremobileos.parallelspace">
+    <privapp-permissions package="org.exthmui.parallelspace">
         <permission name="android.permission.MANAGE_PARALLEL_SPACES"/>
     </privapp-permissions>
 </permissions>
